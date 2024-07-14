@@ -1,2 +1,6 @@
-"# Quick-Chat-App" 
-"# Quick-Chat-App" 
+<<<<<<< HEAD
+<!-- Your current changes -->
+=======
+<!-- Changes from incoming branch -->
+>>>>>>> branch-name
+
